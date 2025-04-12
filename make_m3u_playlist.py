@@ -1,4 +1,5 @@
 import json
+import time
 import requests
 
 def fetch_json(url):
@@ -29,15 +30,11 @@ def create_m3u_playlist(output_file):
     # Create M3U header
     m3u_content = "#EXTM3U\n"
 
-    testCount = 0
     # Process each country
     for country_code in countries_metadata:
         # Skip countries without channels
         if not countries_metadata[country_code].get("hasChannels", False):
             continue
-        testCount +=1
-        if testCount == 10:
-            break
 
         country_name = countries_metadata[country_code]["country"]
         country_json_url = f"https://raw.githubusercontent.com/TVGarden/tv-garden-channel-list/refs/heads/main/channels/raw/countries/{country_code.lower()}.json"
@@ -46,6 +43,7 @@ def create_m3u_playlist(output_file):
             # Fetch country channel data
             channels = fetch_json(country_json_url)
             print(f"Processing {country_name} ({country_code}) - {len(channels)} channels")
+            time.sleep(10)
 
             # Process each channel
             for channel in channels:
@@ -64,8 +62,7 @@ def create_m3u_playlist(output_file):
                     tvg_logo = channel_info.get("logo", "")
                     categories = channel_info.get("categories", [])
 
-                # Format categories for the group-title
-                group_title = country_name
+                group_title = ""
                 if categories:
                     group_title = ";".join(categories)
 
