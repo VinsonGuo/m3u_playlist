@@ -167,8 +167,12 @@ https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-country="AR" tvg-language="spa" group-title="news" tvg-logo="https://i.imgur.com/4hDCB1M.png" ,24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/passthru.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-language="spa" group-title="news" tvg-logo="https://i.imgur.com/LnXQkIU.png" ,A24 (YouTube)
+https://www.youtube-nocookie.com/embed/QGpHLgRnrx4
 #EXTINF:-1 tvg-id="AiredeSantaFe.ar" tvg-country="AR" tvg-language="spa" group-title="general" tvg-logo="https://i.imgur.com/60vSWW0.png" ,Aire de Santa Fe
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-language="spa" group-title="general" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/512px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" ,América TV (YouTube)
+https://www.youtube-nocookie.com/embed/zcWXboTnous
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-country="AR" tvg-language="spa" group-title="general" tvg-logo="https://i.imgur.com/xFgJawa.png" ,Argentinísima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="AVCHD.ar" tvg-country="AR" tvg-language="spa" group-title="general" tvg-logo="https://i.imgur.com/8CT4y1O.png" ,AVC HD
@@ -265,10 +269,12 @@ https://www.youtube-nocookie.com/embed/NNZYAyfovBY
 https://www.youtube-nocookie.com/embed/Q7jIhiCE6as
 #EXTINF:-1 tvg-id="jmvOzd7z4EjBpz" tvg-country="AR" tvg-language="spa" group-title="" ,El Once TV (YouTube)
 https://www.youtube-nocookie.com/embed/wPFrHqmcmPM
+#EXTINF:-1 tvg-id="0nCwD83ATW66if" tvg-country="AR" tvg-language="spa" group-title="" ,El Siete TV (YouTube)
+https://www.youtube-nocookie.com/embed/Vh8xmLBJtR8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-language="spa" group-title="general" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" ,El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="rvSLmYJvnwZ691" tvg-country="AR" tvg-language="spa" group-title="" ,El Tres TV (YouTube)
-https://www.youtube-nocookie.com/embed/D2VMamcJ2zQ
+#EXTINF:-1 tvg-id="NYXd2ClRBhOZGJ" tvg-country="AR" tvg-language="spa" group-title="" ,FMVale975 (YouTube)
+https://www.youtube-nocookie.com/embed/Q2bQYIO1HGY
 #EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-country="AR" tvg-language="spa" group-title="auto" tvg-logo="https://i.imgur.com/FqFxog1.png" ,Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="zMB5rraDUsaO0a" tvg-country="AR" tvg-language="spa" group-title="" ,La Nación+ (YouTube)
@@ -399,6 +405,8 @@ https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 tvg-id="ABCAustralia.au" tvg-country="AU" tvg-language="eng" group-title="general" tvg-logo="https://i.imgur.com/qQ33TVM.png" ,ABC Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 tvg-id="e5UVFol9mf1Sy9" tvg-country="AU" tvg-language="eng" group-title="" ,ABC News Australia (YouTube)
+https://www.youtube-nocookie.com/embed/vOTiJkg1voo
 #EXTINF:-1 tvg-id="AusbizTV.au" tvg-country="AU" tvg-language="eng" group-title="business" tvg-logo="https://i.imgur.com/8vGGdB0.png" ,ausbiz TV
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 tvg-id="C31Melbourne.au" tvg-country="AU" tvg-language="eng" group-title="general" tvg-logo="https://i.imgur.com/Ge1EutY.png" ,C31 Melbourne
@@ -443,6 +451,8 @@ https://str.yodacdn.net/aztv/index.m3u8
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 #EXTINF:-1 tvg-id="bHsynA6QNeR48u" tvg-country="AZ" tvg-language="Unknown" group-title="" ,Azstar TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:-1 tvg-id="MCEE1okRjYPAEv" tvg-country="AZ" tvg-language="aze" group-title="" ,Baku TV (YouTube)
+https://www.youtube-nocookie.com/embed/BueHbXfi6hc
 #EXTINF:-1 tvg-id="IdmanTV.az" tvg-country="AZ" tvg-language="aze" group-title="sports" tvg-logo="https://i.imgur.com/fM9FOrZ.png" ,Idman TV
 https://str.yodacdn.net/idman/index.m3u8
 #EXTINF:-1 tvg-id="MedeniyyetTV.az" tvg-country="AZ" tvg-language="aze" group-title="culture" tvg-logo="https://i.imgur.com/PlvaDIa.png" ,Medeniyyet TV
@@ -488,7 +498,7 @@ https://www.youtube-nocookie.com/embed/HRYSQ90PZDY
 #EXTINF:-1 tvg-id="lxKB7P4hAHIaws" tvg-country="BD" tvg-language="ben" group-title="" ,Rtv News (YouTube)
 https://www.youtube-nocookie.com/embed/exnHHtrMg5k
 #EXTINF:-1 tvg-id="NikPw9VKIQ0CfQ" tvg-country="BD" tvg-language="ben" group-title="" ,Somoy TV (YouTube)
-https://www.youtube-nocookie.com/embed/tdJYRvffIFk
+https://www.youtube-nocookie.com/embed/3nthZSRKOJ8
 #EXTINF:-1 tvg-id="BelRTL.be" tvg-country="BE" tvg-language="fra" group-title="music" tvg-logo="https://i.imgur.com/0DUprIW.png" ,Bel RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 #EXTINF:-1 tvg-id="BAMTV.be" tvg-country="BE" tvg-language="fra" group-title="culture" tvg-logo="https://i.imgur.com/9UmR6cs.png" ,Bel'Afrika Media TV
@@ -616,7 +626,7 @@ https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassiqueTV.ca" tvg-country="BR" tvg-language="por" group-title="movies" tvg-logo="https://i.imgur.com/k8zuTtt.png" ,Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-country="BR" tvg-language="por" group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" ,CNN Brasil (YouTube)
-https://www.youtube-nocookie.com/embed/apn4_Fn7meA
+https://www.youtube-nocookie.com/embed/WWUUo5XMxxk
 #EXTINF:-1 tvg-id="ConecTVBrasil.br" tvg-country="BR" tvg-language="por" group-title="general" tvg-logo="https://i.imgur.com/XN6jjMR.png" ,ConecTV Brasil
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 tvg-id="ConexaoTV.br" tvg-country="BR" tvg-language="por" group-title="general" tvg-logo="https://i.imgur.com/CJ9SPsZ.png" ,Conexão TV
@@ -673,8 +683,6 @@ https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="RioTVCamara.br" tvg-country="BR" tvg-language="por" group-title="legislative" tvg-logo="https://i.imgur.com/smSp1f7.jpg" ,Rio TV Câmara (YouTube)
 https://www.youtube-nocookie.com/embed/yHFKaaCvCq8
-#EXTINF:-1 tvg-id="O8tFJhKTZ0GylR" tvg-country="BR" tvg-language="por" group-title="" ,Santa Cruz Feira Digital: Chaves (YouTube)
-https://www.youtube-nocookie.com/embed/9jRSg2tf5I8
 #EXTINF:-1 tvg-id="iHsfcZXYEPAKKO" tvg-country="BR" tvg-language="por" group-title="" ,Santuário Nacional de Aparecida (YouTube)
 https://www.youtube-nocookie.com/embed/juUt-rN5CVo
 #EXTINF:-1 tvg-id="jn0vI2dHEj55Eu" tvg-country="BR" tvg-language="por" group-title="" ,SBT CENTRAL (YouTube)
@@ -1194,7 +1202,7 @@ https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 #EXTINF:-1 tvg-id="LaChilenaTV.cl" tvg-country="CL" tvg-language="spa" group-title="general" tvg-logo="https://i.imgur.com/GHJkxaB.png" ,La Chilena TV
 https://vdochile.com:3134/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Meganoticias.cl" tvg-country="CL" tvg-language="spa" group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Meganoticias2019.png/512px-Meganoticias2019.png" ,Meganoticias (YouTube)
-https://www.youtube-nocookie.com/embed/FjawJPbpJXo
+https://www.youtube-nocookie.com/embed/PDw0Rxx5x5c
 #EXTINF:-1 tvg-id="NorthCastleTV.us" tvg-country="CL" tvg-language="spa" group-title="general" tvg-logo="https://i.imgur.com/BbMSmNq.png" ,NCTV
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-country="CL" tvg-language="spa" group-title="general" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/300px-NTV_%28Turkey%29_logo.svg.png" ,NTV
@@ -1296,7 +1304,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="nUIeRf6ylw9Lvu" tvg-country="CN" tvg-language="Unknown" group-title="" ,唯心電視
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="0REjP55mYk4y0F" tvg-country="CN" tvg-language="zho" group-title="" ,小猪佩奇 中文官方 - Peppa Pig (YouTube)
-https://www.youtube-nocookie.com/embed/buXlFNFpZNk
+https://www.youtube-nocookie.com/embed/1SYVZ-70pnY
 #EXTINF:-1 tvg-id="9wRBNHe95BnBON" tvg-country="CN" tvg-language="Unknown" group-title="" ,嵊州综合
 https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 tvg-id="LWZapZpACANZ13" tvg-country="CN" tvg-language="Unknown" group-title="" ,新昌休闲影视
@@ -2603,8 +2611,6 @@ https://www.youtube-nocookie.com/embed/CQ3KsEbsYHs
 https://www.youtube-nocookie.com/embed/pUcmpyynASM
 #EXTINF:-1 tvg-id="JoqV25BvXTYp5C" tvg-country="FR" tvg-language="hun" group-title="" ,Euronews Magyar (YouTube)
 https://www.youtube-nocookie.com/embed/jAn7L2Kt32U
-#EXTINF:-1 tvg-id="Euronews.pl" tvg-country="FR" tvg-language="pol" group-title="news" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg" ,Euronews Polski (YouTube)
-https://www.youtube-nocookie.com/embed/KW26SRHjMys
 #EXTINF:-1 tvg-id="iGI0lZtaC0qVgq" tvg-country="FR" tvg-language="por" group-title="" ,Euronews Português (YouTube)
 https://www.youtube-nocookie.com/embed/XuZAl-ZPEcA
 #EXTINF:-1 tvg-id="edGsS9KBSmSMSh" tvg-country="FR" tvg-language="ron" group-title="" ,Euronews Română (YouTube)
@@ -3332,7 +3338,7 @@ https://www.youtube-nocookie.com/embed/nyd-xznCpJc
 #EXTINF:-1 tvg-id="AgamvaniChannel.in" tvg-country="IN" tvg-language="hin" group-title="general" tvg-logo="https://i.imgur.com/dQI1YkX.png" ,Agamvani Channel (YouTube)
 https://www.youtube-nocookie.com/embed/M4AjHuQL-Qo
 #EXTINF:-1 tvg-id="N1fCFdd4hCyMmb" tvg-country="IN" tvg-language="eng" group-title="" ,ANI News (YouTube)
-https://www.youtube-nocookie.com/embed/njsyCv_RwgI
+https://www.youtube-nocookie.com/embed/QHN3NzBqGSk
 #EXTINF:-1 tvg-id="bwW1eLYA4CrOiQ" tvg-country="IN" tvg-language="hin" group-title="" ,Anjan
 https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AradanaTV.in" tvg-country="IN" tvg-language="hin" group-title="religious" tvg-logo="https://i.imgur.com/w48yzLu.png" ,ARADANA TV (YouTube)
@@ -3627,8 +3633,6 @@ https://www.youtube-nocookie.com/embed/YOcg_9yCh8M
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
 #EXTINF:-1 tvg-id="SatsangWebTV.in" tvg-country="IN" tvg-language="hin" group-title="" tvg-logo="https://i.imgur.com/40kNu1w.png" ,Satsang Web TV
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
-#EXTINF:-1 tvg-id="Yme29jpxoYRhDO" tvg-country="IN" tvg-language="mal" group-title="" ,Shekinah News Live (YouTube)
-https://www.youtube-nocookie.com/embed/org483EC9HU
 #EXTINF:-1 tvg-id="ShowBox.in" tvg-country="IN" tvg-language="hin" group-title="music" tvg-logo="https://i.imgur.com/Zm4Fhah.png" ,ShowBox
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
 #EXTINF:-1 tvg-id="ShubhTV.in" tvg-country="IN" tvg-language="hin" group-title="" tvg-logo="https://i.imgur.com/QHv8CL2.png" ,Shubh TV
@@ -4171,10 +4175,14 @@ https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m
 https://www.youtube-nocookie.com/embed/M5qmCbTV7hw
 #EXTINF:-1 tvg-id="RoyaTV.jo" tvg-country="JO" tvg-language="ara" group-title="general" tvg-logo="https://i.imgur.com/WX80rty.png" ,Roya TV
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
+#EXTINF:-1 tvg-id="zcW6vCKG9ZO6s9" tvg-country="JP" tvg-language="jpn" group-title="" ,ABCテレビニュース (YouTube)
+https://www.youtube-nocookie.com/embed/sTAqx_1Yrww
 #EXTINF:-1 tvg-id="iDPxLdUClyuBG1" tvg-country="JP" tvg-language="jpn" group-title="" ,Anileap: アニリープ公式 (YouTube)
 https://www.youtube-nocookie.com/embed/4FBW3mkdKOs
 #EXTINF:-1 tvg-id="t9oYt4NY18iZul" tvg-country="JP" tvg-language="jpn" group-title="" ,Anime Vanguard Live (YouTube)
 https://www.youtube-nocookie.com/embed/lvL7NBq9akc
+#EXTINF:-1 tvg-id="K2Py26x9khAHLi" tvg-country="JP" tvg-language="jpn" group-title="" ,ANN News (YouTube)
+https://www.youtube-nocookie.com/embed/Mq3SLR8-500
 #EXTINF:-1 tvg-id="7ww4XqjlIRbeax" tvg-country="JP" tvg-language="jpn" group-title="" ,Asahi: Documentary (YouTube)
 https://www.youtube-nocookie.com/embed/KXO4PkA_R2Q
 #EXTINF:-1 tvg-id="CGNTVJapan.jp" tvg-country="JP" tvg-language="jpn" group-title="religious" tvg-logo="https://i.imgur.com/5LNZeVq.png" ,CGNTV Japan
@@ -4269,6 +4277,8 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ZIZTV.kn" tvg-country="KN" tvg-language="eng" group-title="general" tvg-logo="https://i.imgur.com/fB09i6X.png" ,ZIZ TV
 https://media.slactech.com:1936/ZIZDirect/ZIZDirect/playlist.m3u8
+#EXTINF:-1 tvg-id="ZgQ9XQCbJsGM3Q" tvg-country="KR" tvg-language="kor" group-title="" , YTN (YouTube)
+https://www.youtube-nocookie.com/embed/FJfwehhzIhw
 #EXTINF:-1 tvg-id="AlltheKPop.kr" tvg-country="KR" tvg-language="kor" group-title="" tvg-logo="https://i.imgur.com/IFLXi6n.png" ,All the K-POP (YouTube)
 https://www.youtube-nocookie.com/embed/-h_xg8ake8c
 #EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-country="KR" tvg-language="kor" group-title="general" tvg-logo="https://i.imgur.com/dtfiG9k.png" ,Arirang Radio
@@ -4321,6 +4331,10 @@ https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="3x38tId4pHxaqx" tvg-country="KR" tvg-language="Unknown" group-title="" ,JCN TV
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
+#EXTINF:-1 tvg-id="Z5dt0NMdPPY3fJ" tvg-country="KR" tvg-language="kor" group-title="" ,KBS News (YouTube)
+https://www.youtube-nocookie.com/embed/M1WrMEUOBsU
+#EXTINF:-1 tvg-id="LvGHuY8LN3yMSp" tvg-country="KR" tvg-language="kor" group-title="" ,KBS WORLD TV (YouTube)
+https://www.youtube-nocookie.com/embed/OxQQsIvJTTU
 #EXTINF:-1 tvg-id="LotteHomeShopping.kr" tvg-country="KR" tvg-language="kor" group-title="shop" tvg-logo="https://i.imgur.com/dJeNehc.png" ,Lotte Home Shopping
 https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 #EXTINF:-1 tvg-id="LotteOneTV.kr" tvg-country="KR" tvg-language="kor" group-title="shop" tvg-logo="https://i.imgur.com/bXe7tYE.png" ,Lotte OneTV
@@ -4329,6 +4343,8 @@ https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCEvery1.kr" tvg-country="KR" tvg-language="kor" group-title="entertainment" tvg-logo="https://i.imgur.com/cnawqOu.png" ,MBC every1 (YouTube)
 https://www.youtube-nocookie.com/embed/-knKhFC52ls
+#EXTINF:-1 tvg-id="MBCNews.kr" tvg-country="KR" tvg-language="kor" group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/MBC_News_2018.svg/512px-MBC_News_2018.svg.png" ,MBC News (YouTube)
+https://www.youtube-nocookie.com/embed/q9bM12ucTIY
 #EXTINF:-1 tvg-id="FkEZ1qiww38D8n" tvg-country="KR" tvg-language="kor" group-title="" ,NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NSHomeShopping.kr" tvg-country="KR" tvg-language="kor" group-title="shop" tvg-logo="https://i.imgur.com/Q9xsDQo.png" ,NS Home Shopping
@@ -4361,6 +4377,8 @@ https://www.youtube-nocookie.com/embed/qGTiSxg14Mk
 https://www.youtube-nocookie.com/embed/IB7zflbICFM
 #EXTINF:-1 tvg-id="WShopping.kr" tvg-country="KR" tvg-language="kor" group-title="shop" tvg-logo="https://i.imgur.com/hfXjVJd.png" ,W Shopping
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+#EXTINF:-1 tvg-id="YonhapNewsTV.kr" tvg-country="KR" tvg-language="kor" group-title="general" tvg-logo="https://i.imgur.com/3aLkU2I.png" ,Yonhap News TV (YouTube)
+https://www.youtube-nocookie.com/embed/6QZ_qc75ihU
 #EXTINF:-1 tvg-id="VViT8uYd2d6XZP" tvg-country="KR" tvg-language="kor" group-title="" ,디글 클래식 :Diggle Classic (YouTube)
 https://www.youtube-nocookie.com/embed/H3uur6g_9CA
 #EXTINF:-1 tvg-id="MaeilBusinessTV.kr" tvg-country="KR" tvg-language="kor" group-title="business" tvg-logo="https://i.imgur.com/G2fnMXG.png" ,매일경제TV (YouTube)
@@ -4739,6 +4757,8 @@ https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
 https://www.youtube-nocookie.com/embed/gWbdC12y4xk
 #EXTINF:-1 tvg-id="DespiertaTV.mx" tvg-country="MX" tvg-language="spa" group-title="general" tvg-logo="https://i.imgur.com/hywjKNo.jpg" ,Despierta TV
 https://video2.lhdserver.es/despiertatv/live.m3u8
+#EXTINF:-1 tvg-id="7B5TL7KhdmamWP" tvg-country="MX" tvg-language="spa" group-title="" ,El Chavo del 8 (YouTube)
+https://www.youtube-nocookie.com/embed/hct5qjC_n9M
 #EXTINF:-1 tvg-id="ElSonorense.mx" tvg-country="MX" tvg-language="spa" group-title="culture" tvg-logo="https://i.imgur.com/aKvPd4g.jpg" ,El Sonorense
 https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 #EXTINF:-1 tvg-id="ExpresaTV.mx" tvg-country="MX" tvg-language="spa" group-title="general" tvg-logo="https://i.imgur.com/kFVVGrg.png" ,Expresa TV
@@ -4749,6 +4769,8 @@ https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ImagenMulticast.mx" tvg-country="MX" tvg-language="spa" group-title="music" tvg-logo="https://i.imgur.com/YZqGCIW.png" ,Imagen Multicast (YouTube)
 https://www.youtube-nocookie.com/embed/mxcYw24BpOs
+#EXTINF:-1 tvg-id="5lhODGYtGp6nxK" tvg-country="MX" tvg-language="spa" group-title="" ,ImagenTV (YouTube)
+https://www.youtube-nocookie.com/embed/QE0AxW13MJU
 #EXTINF:-1 tvg-id="ITVDeportes.mx" tvg-country="MX" tvg-language="spa" group-title="entertainment;sports" tvg-logo="https://iili.io/J1kV1Bn.png" ,ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.pe" tvg-country="MX" tvg-language="spa" group-title="legislative" tvg-logo="https://i.imgur.com/VOjLXJd.png" ,Justicia TV
@@ -4759,10 +4781,14 @@ https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-country="MX" tvg-language="spa" group-title="general" tvg-logo="https://i.imgur.com/iVfzakA.png" ,Mexiquense TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-country="MX" tvg-language="spa" group-title="news" tvg-logo="https://i.imgur.com/TG1T5Oh.png" ,Milenio Televisión (YouTube)
+https://www.youtube-nocookie.com/embed/CSXA3ICbX-8
 #EXTINF:-1 tvg-id="kOILMSbtSvgFyR" tvg-country="MX" tvg-language="spa" group-title="" ,MULTIMEDIOS (YouTube)
 https://www.youtube-nocookie.com/embed/Ivk1W1n1m9s
 #EXTINF:-1 tvg-id="NayaritComunica.mx" tvg-country="MX" tvg-language="spa" group-title="general" tvg-logo="https://i.imgur.com/aZCTkjU.jpg" ,Nayarit Comunica
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
+#EXTINF:-1 tvg-id="NPlus.mx" tvg-country="MX" tvg-language="spa" group-title="news" tvg-logo="https://i.imgur.com/TwBa344.png" ,NMás (YouTube)
+https://www.youtube-nocookie.com/embed/-TQytOurm5w
 #EXTINF:-1 tvg-id="iVsl8EDmgNdyNV" tvg-country="MX" tvg-language="spa" group-title="" ,Once México
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RCGTV.mx" tvg-country="MX" tvg-language="spa" group-title="" tvg-logo="https://i.imgur.com/kYtAR26.png" ,RCG TV
@@ -4800,7 +4826,7 @@ https://www.youtube-nocookie.com/embed/AIWc0Cyrt3Y
 #EXTINF:-1 tvg-id="TelevisaMexicali.mx" tvg-country="MX" tvg-language="spa" group-title="" tvg-logo="https://i.imgur.com/NIEWc2s.jpg" ,Televisa Mexicali (YouTube)
 https://www.youtube-nocookie.com/embed/_tmRxwCiL3k
 #EXTINF:-1 tvg-id="TelevisaMonterrey.mx" tvg-country="MX" tvg-language="spa" group-title="" tvg-logo="https://i.imgur.com/zQiEsnH.png" ,Televisa Monterrey (YouTube)
-https://www.youtube-nocookie.com/embed/yiRWzdE_DrY
+https://www.youtube-nocookie.com/embed/FljzAQjqO0w
 #EXTINF:-1 tvg-id="TelevisaPiedrasNegras.mx" tvg-country="MX" tvg-language="spa" group-title="" tvg-logo="https://i.imgur.com/MNqBa1f.png" ,Televisa Piedras Negras (YouTube)
 https://www.youtube-nocookie.com/embed/9DIutdq-yio
 #EXTINF:-1 tvg-id="TelevisaPuebla.mx" tvg-country="MX" tvg-language="spa" group-title="" tvg-logo="https://i.imgur.com/2dqF5S8.jpg" ,Televisa Puebla (YouTube)
@@ -4900,7 +4926,7 @@ https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperscreenTV.ng" tvg-country="NG" tvg-language="eng" group-title="culture;family" tvg-logo="https://i.imgur.com/uTNmSWE.png" ,Superscreen TV
 https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
 #EXTINF:-1 tvg-id="mQsEQa26uw8XEM" tvg-country="NG" tvg-language="eng" group-title="" ,TrustTV News (YouTube)
-https://www.youtube-nocookie.com/embed/jNaaOkbe5a8
+https://www.youtube-nocookie.com/embed/45wmaR27NOE
 #EXTINF:-1 tvg-id="TVCNews.ng" tvg-country="NG" tvg-language="eng" group-title="news" tvg-logo="https://i.imgur.com/jaSq18B.png" ,TVC News (YouTube)
 https://www.youtube-nocookie.com/embed/4-2RGDSFNpA
 #EXTINF:-1 tvg-id="lU3vhIeIZy1ObI" tvg-country="NG" tvg-language="eng" group-title="" ,TVC News Nigeria (YouTube)
@@ -5258,7 +5284,7 @@ https://www.youtube-nocookie.com/embed/xui4jCWCIE0
 #EXTINF:-1 tvg-id="INCTV.ph" tvg-country="PH" tvg-language="tgl" group-title="religious" tvg-logo="https://i.imgur.com/JGSLqA6.png" ,INC TV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 #EXTINF:-1 tvg-id="iy4DzSWvO3GYHT" tvg-country="PH" tvg-language="tgl" group-title="" ,Teleradyo Serbisyo (YouTube)
-https://www.youtube-nocookie.com/embed/uFscnqYHeG8
+https://www.youtube-nocookie.com/embed/ooK1cGX4Gks
 #EXTINF:-1 tvg-id="hMNBoVmzvLJ9tI" tvg-country="PH" tvg-language="tgl" group-title="" ,UNTV News and Rescue (YouTube)
 https://www.youtube-nocookie.com/embed/Y0mGX-aG4gs
 #EXTINF:-1 tvg-id="24NewsHD.pk" tvg-country="PK" tvg-language="urd" group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png" ,24 News HD (YouTube)
@@ -5303,8 +5329,6 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="mgEVQ9PMGf45wU" tvg-country="PK" tvg-language="eng" group-title="" ,Kids Land: English (YouTube)
 https://www.youtube-nocookie.com/embed/ynIt-X2vMNA
-#EXTINF:-1 tvg-id="yQPdPKGvAyjQ79" tvg-country="PK" tvg-language="urd" group-title="" ,Kids Land: Urdu (YouTube)
-https://www.youtube-nocookie.com/embed/iGCHBoSpYTA
 #EXTINF:-1 tvg-id="KingTV.ug" tvg-country="PK" tvg-language="eng" group-title="religious" tvg-logo="https://i.imgur.com/CTqUUaK.png" ,King TV
 https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="LahoreNews.pk" tvg-country="PK" tvg-language="urd" group-title="news" tvg-logo="https://i.imgur.com/bQfQeEA.jpeg" ,Lahore News
@@ -5419,6 +5443,8 @@ https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u
 https://tvreg.klemit.net/regionalna/stream/index.m3u8
 #EXTINF:-1 tvg-id="TelewizjaRelax.pl" tvg-country="PL" tvg-language="pol" group-title="general" tvg-logo="https://i.imgur.com/dejnH0O.png" ,TV Relax (YouTube)
 https://www.youtube-nocookie.com/embed/Sfdj0djI6kA
+#EXTINF:-1 tvg-id="8fkva1GfM7tM4w" tvg-country="PL" tvg-language="pol" group-title="" ,TVSUDECKA PL (YouTube)
+https://www.youtube-nocookie.com/embed/EannQJWYzHE
 #EXTINF:-1 tvg-id="TVT.tg" tvg-country="PL" tvg-language="pol" group-title="general" tvg-logo="https://i.imgur.com/WtXonN9.png" ,TVT
 https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
 #EXTINF:-1 tvg-id="moehtnlcI4ChMQ" tvg-country="PL" tvg-language="pol" group-title="" ,Uniwersytet im. Adama Mickiewicza w Poznaniu (YouTube)
@@ -5728,9 +5754,9 @@ https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1 tvg-id="nJhafyMiMVkZKn" tvg-country="RU" tvg-language="rus" group-title="" ,Dag Music (YouTube)
 https://www.youtube-nocookie.com/embed/9ylmSDP9VSA
 #EXTINF:-1 tvg-id="zXKH8WmbfaDrMI" tvg-country="RU" tvg-language="rus" group-title="" ,Get Movies: Маша и Медведь (YouTube)
-https://www.youtube-nocookie.com/embed/k4Ip2fI8UvA
+https://www.youtube-nocookie.com/embed/QpfneTdbq6U
 #EXTINF:-1 tvg-id="DisneyXDLatinAmerica.us" tvg-country="RU" tvg-language="rus" group-title="kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" ,Jetix (YouTube)
-https://www.youtube-nocookie.com/embed/tEWl5S-vB7g
+https://www.youtube-nocookie.com/embed/Ii9x2v4Jz6E
 #EXTINF:-1 tvg-id="gTc7saNCrij9pg" tvg-country="RU" tvg-language="rus" group-title="" ,Kulinar TV Show
 https://api.alpaca.t62a.com/hls/9110/index.m3u8
 #EXTINF:-1 tvg-id="Leomax24.ru" tvg-country="RU" tvg-language="rus" group-title="shop" tvg-logo="https://i.imgur.com/qU9ohQu.png" ,Leomax 24
@@ -6233,8 +6259,6 @@ https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
 #EXTINF:-1 tvg-id="PoliceTV.th" tvg-country="TH" tvg-language="tha" group-title="" tvg-logo="https://i.imgur.com/GhboFGt.png" ,Police TV
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
-#EXTINF:-1 tvg-id="olJQmVUDZgXj1I" tvg-country="TH" tvg-language="tha" group-title="" ,SHOP CH Thailand (YouTube)
-https://www.youtube-nocookie.com/embed/V861ohkJ-Cg
 #EXTINF:-1 tvg-id="SuwannabhumiChannel.th" tvg-country="TH" tvg-language="tha" group-title="" tvg-logo="https://i.imgur.com/6AGKP0A.png" ,Suwannabhumi Channel
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 tvg-id="TSports7.th" tvg-country="TH" tvg-language="tha" group-title="sports" tvg-logo="https://i.imgur.com/KyI0s5n.png" ,T Sports 7
@@ -6259,10 +6283,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
 #EXTINF:-1 tvg-id="ZabbChannel.th" tvg-country="TH" tvg-language="tha" group-title="" tvg-logo="https://i.imgur.com/4TMtUjW.png" ,Zabb Channel
 https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
-#EXTINF:-1 tvg-id="AtEof85QR5byYd" tvg-country="TN" tvg-language="ara" group-title="" ,Watania Replay (YouTube)
-https://www.youtube-nocookie.com/embed/fdXqfCQzIXI
-#EXTINF:-1 tvg-id="QMsKW2NGa9ux0Z" tvg-country="TN" tvg-language="ara" group-title="" ,Watania2 Replay (YouTube)
-https://www.youtube-nocookie.com/embed/C4CYiwyfWIs
 #EXTINF:-1 tvg-id="4UTV.tr" tvg-country="TR" tvg-language="fas" group-title="entertainment" tvg-logo="https://i.imgur.com/PexhKwp.png" ,4U TV
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="24TV.tr" tvg-country="TR" tvg-language="tur" group-title="news" tvg-logo="https://i.imgur.com/8FO41es.png" ,24 TV
@@ -6275,6 +6295,8 @@ https://www.youtube-nocookie.com/embed/nmY9i63t6qo
 https://www.youtube-nocookie.com/embed/L4O-IO_dySQ
 #EXTINF:-1 tvg-id="APara.tr" tvg-country="TR" tvg-language="tur" group-title="news" tvg-logo="https://i.imgur.com/GjHnq0c.png" ,A Para (YouTube)
 https://www.youtube-nocookie.com/embed/nIi1FAIGLuc
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-country="TR" tvg-language="tur" group-title="sports" tvg-logo="https://i.imgur.com/ZhkZzLf.png" ,A Spor (YouTube)
+https://www.youtube-nocookie.com/embed/7uBpwcn2ZZ0
 #EXTINF:-1 tvg-id="NTRTV.tr" tvg-country="TR" tvg-language="eng" group-title="culture" tvg-logo="https://i.imgur.com/6DnwS5i.png" ,Afroturk TV
 https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="AkitTV.tr" tvg-country="TR" tvg-language="tur" group-title="news" tvg-logo="https://i.imgur.com/oGto929.png" ,Akit TV
@@ -6325,6 +6347,8 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine5.tr" tvg-country="TR" tvg-language="tur" group-title="movies" tvg-logo="https://i.imgur.com/AmcOAIY.png" ,Cine5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-country="TR" tvg-language="tur" group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png" ,CNN TÜRK (YouTube)
+https://www.youtube-nocookie.com/embed/VXMR3YQ7W3s
 #EXTINF:-1 tvg-id="5ZXjzA9WC4UY7k" tvg-country="TR" tvg-language="tur" group-title="" ,Çocuklar Duymasın (YouTube)
 https://www.youtube-nocookie.com/embed/EVZmJPw-7hY
 #EXTINF:-1 tvg-id="DehaTV.tr" tvg-country="TR" tvg-language="tur" group-title="news" tvg-logo="https://i.imgur.com/Dlsm9XP.png" ,Deha TV
@@ -6387,6 +6411,8 @@ https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 tvg-id="tP5Ewc5P83XEEQ" tvg-country="TR" tvg-language="tur" group-title="" ,Her An Kur'an Her An Zikir (YouTube)
 https://www.youtube-nocookie.com/embed/358jGRoGgy0
+#EXTINF:-1 tvg-id="w6ttDNPMaglKeI" tvg-country="TR" tvg-language="tur" group-title="" ,HT Spor (YouTube)
+https://www.youtube-nocookie.com/embed/RdpqsTbi_KU
 #EXTINF:-1 tvg-id="HunatTV.tr" tvg-country="TR" tvg-language="tur" group-title="general" tvg-logo="https://i.imgur.com/NrxHGnb.png" ,Hunat TV
 https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
 #EXTINF:-1 tvg-id="IcelTV.tr" tvg-country="TR" tvg-language="tur" group-title="" tvg-logo="https://i.imgur.com/CGwImKv.png" ,Icel TV
@@ -6446,7 +6472,7 @@ https://www.youtube-nocookie.com/embed/ay_whLpQXgc
 #EXTINF:-1 tvg-id="LalegulTV.tr" tvg-country="TR" tvg-language="tur" group-title="religious" tvg-logo="https://i.imgur.com/wwCysFs.png" ,Lalegul TV
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="LiderHaber.tr" tvg-country="TR" tvg-language="tur" group-title="news" tvg-logo="https://i.imgur.com/5B42KwY.png" ,Lider Haber (YouTube)
-https://www.youtube-nocookie.com/embed/xONtRR_iAOM
+https://www.youtube-nocookie.com/embed/GxMV2hzKK2I
 #EXTINF:-1 tvg-id="LifeTV.za" tvg-country="TR" tvg-language="tur" group-title="" tvg-logo="https://i.imgur.com/C5YxD5m.png" ,Life TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1 tvg-id="LineTV.tr" tvg-country="TR" tvg-language="tur" group-title="general" tvg-logo="https://i.imgur.com/6GNp7f8.png" ,Line TV
@@ -6591,6 +6617,8 @@ https://www.youtube-nocookie.com/embed/dK96AZbCns0
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Qnwd5ncRKNfKu1" tvg-country="TR" tvg-language="tur" group-title="" ,ÜÜ TV Üsküdar Üniversitesi TV
 https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
+#EXTINF:-1 tvg-id="VavTV.tr" tvg-country="TR" tvg-language="tur" group-title="" tvg-logo="https://i.imgur.com/jw0gB8L.png" ,Vav TV (YouTube)
+https://www.youtube-nocookie.com/embed/aI65zlH3UT8
 #EXTINF:-1 tvg-id="VuslatTV.tr" tvg-country="TR" tvg-language="tur" group-title="" tvg-logo="https://i.imgur.com/5AiUlIJ.png" ,Vuslat TV
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
 #EXTINF:-1 tvg-id="WomanTV.tr" tvg-country="TR" tvg-language="tur" group-title="culture;education;lifestyle" tvg-logo="https://i.imgur.com/f2zGoV3.png" ,Woman TV
@@ -6603,6 +6631,8 @@ https://www.youtube-nocookie.com/embed/crwxJBQKWj4
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SankhyaTV.tt" tvg-country="TT" tvg-language="eng" group-title="religious" tvg-logo="https://i.ibb.co/Dgv6PvM/STV-NEW-LOGO-WITH-WHITE-SHADOW.png" ,Sankhya TV
 https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="q3MsYc4TWhyWHY" tvg-country="TW" tvg-language="zho" group-title="" ,57ETFN (YouTube)
+https://www.youtube-nocookie.com/embed/AEBeWMM1atA
 #EXTINF:-1 tvg-id="BeautifulLifeTV.tw" tvg-country="TW" tvg-language="zho" group-title="religious" tvg-logo="https://i.imgur.com/hkwcBM9.png" ,Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-id="CGNTVChinese.tw" tvg-country="TW" tvg-language="zho" group-title="religious" tvg-logo="https://i.imgur.com/bPoPAbR.png" ,CGNTV Chinese
@@ -6683,12 +6713,16 @@ https://www.youtube-nocookie.com/embed/xbNWkUyxQGM
 https://www.youtube-nocookie.com/embed/quwqlazU-c8
 #EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-country="TW" tvg-language="eng" group-title="" tvg-logo="https://i.imgur.com/kFMHayP.png" ,Supreme Master TV
 https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 tvg-id="GSAcFVtp1zzC1v" tvg-country="TW" tvg-language="zho" group-title="" ,Taiwan EBS News (YouTube)
+https://www.youtube-nocookie.com/embed/E0zhe2gkXBs
 #EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-country="TW" tvg-language="eng" group-title="" tvg-logo="https://i.imgur.com/SfcZyqm.png" ,Taiwan Plus TV
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-id="8pEZrzkEvqMiL8" tvg-country="TW" tvg-language="zho" group-title="" ,Taiwan SETNEWS (YouTube)
 https://www.youtube-nocookie.com/embed/hGJkDZDchYI
 #EXTINF:-1 tvg-id="2QCf6LFq6vOFj0" tvg-country="TW" tvg-language="eng" group-title="" ,TaiwanPlus (YouTube)
 https://www.youtube-nocookie.com/embed/gvV_mJsKLWQ
+#EXTINF:-1 tvg-id="TVBSNews.tw" tvg-country="TW" tvg-language="zho" group-title="news" tvg-logo="https://i.imgur.com/171lwfg.png" ,TVBS NEWS (YouTube)
+https://www.youtube-nocookie.com/embed/m_dhMSvUCIc
 #EXTINF:-1 tvg-id="ylsl7nMp3aqQ8H" tvg-country="TW" tvg-language="zho" group-title="" ,ViVa TV: 美好購物1台線上看 (YouTube)
 https://www.youtube-nocookie.com/embed/7IyxOiGMLgw
 #EXTINF:-1 tvg-id="WOOG7kv9UAf8gJ" tvg-country="TW" tvg-language="zho" group-title="" ,ViVa TV: 美好購物2台線上看 (YouTube)
@@ -6711,6 +6745,8 @@ https://www.youtube-nocookie.com/embed/DTNkEm6jaqQ
 https://www.youtube-nocookie.com/embed/UtOw97Ba8hE
 #EXTINF:-1 tvg-id="xjMtwiJJliTsw0" tvg-country="TW" tvg-language="zho" group-title="" ,新唐人亞太電視台NTDAPTV (YouTube)
 https://www.youtube-nocookie.com/embed/WIhgU_mc05A
+#EXTINF:-1 tvg-id="XqsaJsuEA6fqrB" tvg-country="TW" tvg-language="zho" group-title="" ,東森新聞 CH51 (YouTube)
+https://www.youtube-nocookie.com/embed/V1p33hqPrUk
 #EXTINF:-1 tvg-id="UxZcPY7znRO9f7" tvg-country="TW" tvg-language="zho" group-title="" ,民視新聞網 Formosa TV (YouTube)
 https://www.youtube-nocookie.com/embed/ylYJSBUgaMA
 #EXTINF:-1 tvg-id="QeuISdXacTsHR3" tvg-country="TW" tvg-language="Unknown" group-title="" ,立法院IVOD直播交通委員會
@@ -6897,8 +6933,6 @@ https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8
 https://www.youtube-nocookie.com/embed/p5l3ZS1jVUE
 #EXTINF:-1 tvg-id="ChannelS.uk" tvg-country="UK" tvg-language="ben" group-title="culture" tvg-logo="https://i.imgur.com/hJxFLvF.png" ,Channel S
 https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
-#EXTINF:-1 tvg-id="vFuB4amnCAnzu2" tvg-country="UK" tvg-language="eng" group-title="" ,Crafter's TV (YouTube)
-https://www.youtube-nocookie.com/embed/zoVKY2SOiBQ
 #EXTINF:-1 tvg-id="Cruise1stTV.uk" tvg-country="UK" tvg-language="eng" group-title="shop;travel" tvg-logo="https://i.imgur.com/L1bysJS.png" ,Cruise1st TV (YouTube)
 https://www.youtube-nocookie.com/embed/XFKQce14Zaw
 #EXTINF:-1 tvg-id="6wO9JsLbL1gInm" tvg-country="UK" tvg-language="eng" group-title="" ,DiscoverFilm
@@ -7521,8 +7555,6 @@ https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
 #EXTINF:-1 tvg-id="v8DASsTmKV4fnb" tvg-country="US" tvg-language="Unknown" group-title="" ,Channel Fight
 https://d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266.m3u8
-#EXTINF:-1 tvg-id="ENAPLAY.kr" tvg-country="US" tvg-language="fas" group-title="entertainment" tvg-logo="https://i.imgur.com/Ksc8IHf.png" ,Channel One (YouTube)
-https://www.youtube-nocookie.com/embed/2ZTnqcbUZVQ
 #EXTINF:-1 tvg-id="WR4sPnhnjVEgE3" tvg-country="US" tvg-language="eng" group-title="" ,Charlotte County CC-TV (Charlotte County FA)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
 #EXTINF:-1 tvg-id="CheddarNews.us" tvg-country="US" tvg-language="eng" group-title="news" tvg-logo="https://i.imgur.com/tuP9GW8.png" ,Cheddar News
@@ -8854,7 +8886,7 @@ https://www.youtube-nocookie.com/embed/xOy8xXJUBa8
 #EXTINF:-1 tvg-id="TPqr0TZM4sdKIS" tvg-country="US" tvg-language="fra" group-title="" ,Shout! Studios: 21 Jump Street (Français) (YouTube)
 https://www.youtube-nocookie.com/embed/KZv_iIAgN-A
 #EXTINF:-1 tvg-id="StXc5NdfR72QxF" tvg-country="US" tvg-language="eng" group-title="" ,Shout! Studios: ALF (English) (YouTube)
-https://www.youtube-nocookie.com/embed/nYG5HGnYYZE
+https://www.youtube-nocookie.com/embed/QlfQByoCpkY
 #EXTINF:-1 tvg-id="9WIN5KhtEj3GSs" tvg-country="US" tvg-language="eng" group-title="" ,Shout! Studios: Bonanza (YouTube)
 https://www.youtube-nocookie.com/embed/Y9kTMIAhCBI
 #EXTINF:-1 tvg-id="e7jleLISepO1r2" tvg-country="US" tvg-language="deu" group-title="" ,Shout! Studios: Bonanza (Deutsch) (YouTube)
@@ -8862,7 +8894,7 @@ https://www.youtube-nocookie.com/embed/_tswjkcRuNs
 #EXTINF:-1 tvg-id="i3xr0qWNj713tk" tvg-country="US" tvg-language="spa" group-title="" ,Shout! Studios: Bonanza (Español) (YouTube)
 https://www.youtube-nocookie.com/embed/45cnSA5zRRI
 #EXTINF:-1 tvg-id="7abjm0tQN75ZCL" tvg-country="US" tvg-language="eng" group-title="" ,Shout! Studios: Breaking the Magician's Code (YouTube)
-https://www.youtube-nocookie.com/embed/whdQiei_xFM
+https://www.youtube-nocookie.com/embed/UL0FUHRukq0
 #EXTINF:-1 tvg-id="MmvGAkIJ1Y1or8" tvg-country="US" tvg-language="eng" group-title="" ,Shout! Studios: Dennis the Menace (YouTube)
 https://www.youtube-nocookie.com/embed/9fK7xQk9Gjg
 #EXTINF:-1 tvg-id="ZUiCxfI2YHTlLz" tvg-country="US" tvg-language="eng" group-title="" ,Shout! Studios: Elvira's Movie Macabre (YouTube)
@@ -8896,7 +8928,7 @@ https://www.youtube-nocookie.com/embed/eyaUVJG7Ji0
 #EXTINF:-1 tvg-id="vsnk5zgcuEn5eB" tvg-country="US" tvg-language="eng" group-title="" ,Shout! Studios: The Lone Ranger (YouTube)
 https://www.youtube-nocookie.com/embed/S-w8DCrGfuQ
 #EXTINF:-1 tvg-id="RTxVBg4h4jRPiM" tvg-country="US" tvg-language="eng" group-title="" ,Shout! Studios: The Whitest Kids U' Know (YouTube)
-https://www.youtube-nocookie.com/embed/7SwYAzNCu3Q
+https://www.youtube-nocookie.com/embed/Lo7DYZkTJ1w
 #EXTINF:-1 tvg-id="zGtMMOo5TZYGOR" tvg-country="US" tvg-language="eng" group-title="" ,Shout! Studios: Wiseguy (YouTube)
 https://www.youtube-nocookie.com/embed/So85fk_Xx4w
 #EXTINF:-1 tvg-id="SKWAD.us" tvg-country="US" tvg-language="eng" group-title="" tvg-logo="https://i.imgur.com/b5yFW8G.png" ,SKWAD
@@ -9265,14 +9297,14 @@ https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
 https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="vn2i9Jh6QwJkSK" tvg-country="US" tvg-language="Unknown" group-title="" ,Universal Westerns
 https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="kBZLoHAnjfHT7v" tvg-country="US" tvg-language="spa" group-title="" ,Univision Noticias (YouTube)
+https://www.youtube-nocookie.com/embed/QPKmztq3RnY
 #EXTINF:-1 tvg-id="UnsolvedMysteries.us" tvg-country="US" tvg-language="eng" group-title="series" tvg-logo="https://i.imgur.com/De3khrX.png" ,Unsolved Mysteries
 https://livetv-fa.tubi.video/unsolved-mysteries/index.m3u8
 #EXTINF:-1 tvg-id="Ig6wFnUGl7E1Yg" tvg-country="US" tvg-language="Unknown" group-title="" ,Urban Action TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8
 #EXTINF:-1 tvg-id="J0bSORERCtXCw0" tvg-country="US" tvg-language="Unknown" group-title="" ,USA Network East
 https://v1.thetvapp.to/hls/USANetworkEast/index.m3u8
-#EXTINF:-1 tvg-id="USATODAY.us" tvg-country="US" tvg-language="eng" group-title="news" tvg-logo="https://i.imgur.com/37K0AZX.png" ,USA Today (YouTube)
-https://www.youtube-nocookie.com/embed/BBhPFwH8GQc
 #EXTINF:-1 tvg-id="CncLAxJ4uLXvmb" tvg-country="US" tvg-language="eng" group-title="" ,USA Today News
 https://usatodaynews-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="69Uot94MzkniBw" tvg-country="US" tvg-language="eng" group-title="" ,Vacaville Channel 26 (Vacaville CA)
@@ -9402,7 +9434,7 @@ https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 #EXTINF:-1 tvg-id="J9waBt1290Yif7" tvg-country="US" tvg-language="eng" group-title="" ,WPAA TV (Wallingford CT)
 https://streams.helnix.com/autoHLS/ce3a40274f01c8fc/ce3a40274f01c8fc.m3u8
 #EXTINF:-1 tvg-id="ruu5iGUi82TkIe" tvg-country="US" tvg-language="eng" group-title="" ,WPLG Local 10 (YouTube)
-https://www.youtube-nocookie.com/embed/jxQg3fIZ6lg
+https://www.youtube-nocookie.com/embed/E40aSWazJvY
 #EXTINF:-1 tvg-id="FqfjVtCq56Tw8t" tvg-country="US" tvg-language="eng" group-title="" ,WPS TV
 https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
 #EXTINF:-1 tvg-id="W5Jcy9ZY3dEIR9" tvg-country="US" tvg-language="eng" group-title="" ,WPTV News West Palm Beach FL
@@ -9541,8 +9573,6 @@ https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
 https://www.youtube-nocookie.com/embed/iO6ZhnsunK4
 #EXTINF:-1 tvg-id="ANTV.ve" tvg-country="VN" tvg-language="vie" group-title="legislative" tvg-logo="https://i.imgur.com/Qm88HT0.png" ,ANTV
 https://ott1.nethubtv.vn/live/antv/playlist.m3u8
-#EXTINF:-1 tvg-id="VCFZo6dbs3n20W" tvg-country="VN" tvg-language="vie" group-title="" ,DGV (YouTube)
-https://www.youtube-nocookie.com/embed/ZbbMRDj_F4A
 #EXTINF:-1 tvg-id="DhammasaphaTV.vn" tvg-country="VN" tvg-language="vie" group-title="religious" tvg-logo="https://i.imgur.com/TWJgMuE.jpg" ,Dhammasapha TV
 https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DongThapTV.vn" tvg-country="VN" tvg-language="vie" group-title="general" tvg-logo="https://i.ibb.co/XFX7yw0/logo2-1.png" ,Dong Thap TV
