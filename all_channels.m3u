@@ -448,7 +448,7 @@ https://news.ctbperth.net.au/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ExpoChannel.au" tvg-country="AU" tvg-language="eng" group-title="shop" tvg-logo="https://i.imgur.com/2KzCShW.png" ,Expo Channel
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
 #EXTINF:-1 tvg-id="pPdE8C8cpyAqht" tvg-country="AU" tvg-language="eng" group-title="" ,Force Thirteen Earthquakes (YouTube)
-https://www.youtube-nocookie.com/embed/DBP8Arz51pc
+https://www.youtube-nocookie.com/embed/jVs8I61_OHg
 #EXTINF:-1 tvg-id="IndoOzTV.au" tvg-country="AU" tvg-language="hin" group-title="entertainment" tvg-logo="https://i.imgur.com/4LECwDh.png" ,Indo Oz TV
 https://stream.e2is.in/hls/indoztv.m3u8
 #EXTINF:-1 tvg-id="Racingcom.au" tvg-country="AU" tvg-language="eng" group-title="sports" tvg-logo="https://i.imgur.com/Q55HX1O.png" ,Racing.com
@@ -672,7 +672,7 @@ https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassiqueTV.ca" tvg-country="BR" tvg-language="por" group-title="movies" tvg-logo="https://i.imgur.com/k8zuTtt.png" ,Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-country="BR" tvg-language="por" group-title="news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/512px-CNN_Brasil.svg.png" ,CNN Brasil (YouTube)
-https://www.youtube-nocookie.com/embed/1BtXZ05-UuM
+https://www.youtube-nocookie.com/embed/utKizNBQi6o
 #EXTINF:-1 tvg-id="COMBrasil.br" tvg-country="BR" tvg-language="por" group-title="general" tvg-logo="https://i.imgur.com/GrjGwKM.png" ,COM Brasil
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 #EXTINF:-1 tvg-id="ConecTVBrasil.br" tvg-country="BR" tvg-language="por" group-title="general" tvg-logo="https://i.imgur.com/XN6jjMR.png" ,ConecTV Brasil
@@ -854,7 +854,7 @@ https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 #EXTINF:-1 tvg-id="TVThathi.br" tvg-country="BR" tvg-language="por" group-title="general" tvg-logo="https://tv.thathi.com.br/wp-content/uploads/2021/02/tv-thathi-150x150.png" ,TV Thathi
 https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 #EXTINF:-1 tvg-id="0clXzJLP8rGUkm" tvg-country="BR" tvg-language="por" group-title="" ,TV Thathi SBT (YouTube)
-https://www.youtube-nocookie.com/embed/ZGPILnYJ41I
+https://www.youtube-nocookie.com/embed/iRvmcA3v6vY
 #EXTINF:-1 tvg-id="TVTudoBH.br" tvg-country="BR" tvg-language="por" group-title="shop" tvg-logo="https://i.imgur.com/5SKSkUQ.png" ,TV Tudo BH
 https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUniversal.br" tvg-country="BR" tvg-language="por" group-title="religious" tvg-logo="https://i.imgur.com/TIsk5zN.png" ,TV Universal
@@ -1235,8 +1235,6 @@ https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChileChannel.cl" tvg-country="CL" tvg-language="spa" group-title="travel;entertainment" tvg-logo="https://i.imgur.com/F1it6fh.png" ,Chile Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:-1 tvg-id="ChileVision.cl" tvg-country="CL" tvg-language="spa" group-title="general" tvg-logo="https://i.imgur.com/PRijvR0.png" ,Chilevisión (YouTube)
-https://www.youtube-nocookie.com/embed/oW68DumsQzo
 #EXTINF:-1 tvg-id="ChiloeRed25.cl" tvg-country="CL" tvg-language="spa" group-title="culture" tvg-logo="https://i.imgur.com/3tqrImm.png" ,Chiloe Red 25
 https://v2.tustreaming.cl/chiloered/index.m3u8
 #EXTINF:-1 tvg-id="itmATVZa5Ggr1u" tvg-country="CL" tvg-language="spa" group-title="" ,Click TV (Coronel)
@@ -1410,7 +1408,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="nUIeRf6ylw9Lvu" tvg-country="CN" tvg-language="Unknown" group-title="" ,唯心電視
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="0REjP55mYk4y0F" tvg-country="CN" tvg-language="zho" group-title="" ,小猪佩奇 中文官方 - Peppa Pig (YouTube)
-https://www.youtube-nocookie.com/embed/oezpg5wUALM
+https://www.youtube-nocookie.com/embed/OBgD8kzDqHY
 #EXTINF:-1 tvg-id="9wRBNHe95BnBON" tvg-country="CN" tvg-language="Unknown" group-title="" ,嵊州综合
 https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 #EXTINF:-1 tvg-id="gKM2UUtJntwU7I" tvg-country="CN" tvg-language="Unknown" group-title="" ,广东 Ⅰ 韶关综合台
@@ -5028,7 +5026,7 @@ https://www.youtube-nocookie.com/embed/OrekygEdoI0
 #EXTINF:-1 tvg-id="TelevisaMexicali.mx" tvg-country="MX" tvg-language="spa" group-title="" tvg-logo="https://i.imgur.com/NIEWc2s.jpg" ,Televisa Mexicali (YouTube)
 https://www.youtube-nocookie.com/embed/_tmRxwCiL3k
 #EXTINF:-1 tvg-id="TelevisaMonterrey.mx" tvg-country="MX" tvg-language="spa" group-title="" tvg-logo="https://i.imgur.com/zQiEsnH.png" ,Televisa Monterrey (YouTube)
-https://www.youtube-nocookie.com/embed/wJhO0cqwU1E
+https://www.youtube-nocookie.com/embed/zgFF8wrJkww
 #EXTINF:-1 tvg-id="TelevisaPiedrasNegras.mx" tvg-country="MX" tvg-language="spa" group-title="" tvg-logo="https://i.imgur.com/MNqBa1f.png" ,Televisa Piedras Negras (YouTube)
 https://www.youtube-nocookie.com/embed/ENJywI8Bodg
 #EXTINF:-1 tvg-id="TelevisaPuebla.mx" tvg-country="MX" tvg-language="spa" group-title="" tvg-logo="https://i.imgur.com/2dqF5S8.jpg" ,Televisa Puebla (YouTube)
@@ -6995,6 +6993,8 @@ https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CG
 https://www.youtube-nocookie.com/embed/DM_PEM8GrIg
 #EXTINF:-1 tvg-id="MutezlyZP3RD1v" tvg-country="TW" tvg-language="zho" group-title="" ,CTIASIA 中天亞洲台 (YouTube)
 https://www.youtube-nocookie.com/embed/dKkyfjn8xq8
+#EXTINF:-1 tvg-id="otid9imSgOgaGV" tvg-country="TW" tvg-language="zho" group-title="" ,CTITV News 中天新聞 (YouTube)
+https://www.youtube-nocookie.com/embed/sa-x1Yp9Vzs
 #EXTINF:-1 tvg-id="Cj9jI4Ty58FAjy" tvg-country="TW" tvg-language="zho" group-title="" ,CTV News 中視新聞 (YouTube)
 https://www.youtube-nocookie.com/embed/AGdxQWYSrI8
 #EXTINF:-1 tvg-id="W8l6SeW7D2XJbF" tvg-country="TW" tvg-language="zho" group-title="" ,CTV News 台灣中視 (YouTube)
@@ -7879,6 +7879,8 @@ https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
 #EXTINF:-1 tvg-id="v8DASsTmKV4fnb" tvg-country="US" tvg-language="Unknown" group-title="" ,Channel Fight
 https://d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266.m3u8
+#EXTINF:-1 tvg-id="ENAPLAY.kr" tvg-country="US" tvg-language="fas" group-title="entertainment" tvg-logo="https://i.imgur.com/Ksc8IHf.png" ,Channel One (YouTube)
+https://www.youtube-nocookie.com/embed/ZYoBneRVsfM
 #EXTINF:-1 tvg-id="WR4sPnhnjVEgE3" tvg-country="US" tvg-language="eng" group-title="" ,Charlotte County CC-TV (Charlotte County FA)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
 #EXTINF:-1 tvg-id="CheddarNews.us" tvg-country="US" tvg-language="eng" group-title="news" tvg-logo="https://i.imgur.com/tuP9GW8.png" ,Cheddar News
@@ -9817,8 +9819,6 @@ https://www.youtube-nocookie.com/embed/iO6ZhnsunK4
 https://ott1.nethubtv.vn/live/antv/playlist.m3u8
 #EXTINF:-1 tvg-id="BacNinhTV.vn" tvg-country="VN" tvg-language="vie" group-title="" tvg-logo="https://i.postimg.cc/WbrWPpVg/BTV-Bac-Ninh-2021.png" ,Bac Ninh TV
 https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VCFZo6dbs3n20W" tvg-country="VN" tvg-language="vie" group-title="" ,DGV (YouTube)
-https://www.youtube-nocookie.com/embed/MHGYSTy_QnI
 #EXTINF:-1 tvg-id="DhammasaphaTV.vn" tvg-country="VN" tvg-language="vie" group-title="religious" tvg-logo="https://i.imgur.com/TWJgMuE.jpg" ,Dhammasapha TV
 https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DienBienTV.vn" tvg-country="VN" tvg-language="vie" group-title="general" tvg-logo="https://i.imgur.com/u308o8q.png" ,Dien Bien TV
