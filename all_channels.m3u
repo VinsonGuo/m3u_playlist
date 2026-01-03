@@ -4923,7 +4923,7 @@ https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist.
 https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="IcaroTV.it" tvg-country="IT" tvg-language="ita" group-title="general" ,Icaro TV
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
-#EXTINF:-1 tvg-id="InWild.it" tvg-country="IT" tvg-language="eng" group-title="shop;outdoor" ,INWILD
+#EXTINF:-1 tvg-id="INWILD.nl" tvg-country="IT" tvg-language="eng" group-title="documentary" ,INWILD
 https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Italia2.it" tvg-country="IT" tvg-language="ita" group-title="entertainment" ,Italia 2
 https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
@@ -6061,9 +6061,9 @@ https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8
 https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IdeaalTV.nl" tvg-country="NL" tvg-language="nld" group-title="general" ,Ideaal TV
 https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="INFAST.nl" tvg-country="NL" tvg-language="eng" group-title="" ,INFAST
+#EXTINF:-1 tvg-id="INFAST.nl" tvg-country="NL" tvg-language="eng" group-title="lifestyle" ,INFAST
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="InTrouble.nl" tvg-country="NL" tvg-language="eng" group-title="" ,InTrouble
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-country="NL" tvg-language="eng" group-title="auto;sports;outdoor" ,InTrouble
 https://amg00861-terncloud-amg00861c6-cineverse-us-964.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-introublehd-cineverseus/playlist.m3u8
 #EXTINF:-1 tvg-id="InWonder.nl" tvg-country="NL" tvg-language="eng" group-title="science" ,INWONDER
 https://amg00861-amg00861c4-firetv-us-4724.playouts.now.amagi.tv/playlist.m3u8
@@ -9227,7 +9227,7 @@ https://edge1.lifestreamcdn.com/live/impactroku1/index.m3u8
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 #EXTINF:-1 tvg-id="InDGnYJDQn6YQp" tvg-country="US" tvg-language="eng" group-title="" ,Indie Playlists (YouTube)
 https://www.youtube-nocookie.com/embed/83KhjyMzzCk
-#EXTINF:-1 tvg-id="INFAST.nl" tvg-country="US" tvg-language="Unknown" group-title="" ,INFAST
+#EXTINF:-1 tvg-id="INFAST.nl" tvg-country="US" tvg-language="Unknown" group-title="lifestyle" ,INFAST
 https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GgRGCAWKuULSOc" tvg-country="US" tvg-language="eng" group-title="" ,InfoWars Network
 https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
